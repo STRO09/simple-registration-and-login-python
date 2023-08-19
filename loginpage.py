@@ -64,7 +64,7 @@ def login1():
         else:
             messagebox.showinfo('Welcome','Login is sucessful')
             root.destroy()
-            import homepage
+            import home
 
 #hide and show button
 button_mode=True
